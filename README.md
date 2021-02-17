@@ -10,4 +10,4 @@ Windows: Download this repo as ZIP or any formats you like, then unzip that and 
 Linux: Updating
 
 [![GitHub issues](https://img.shields.io/github/issues/CookieGMVN/BTEASEANBot)](https://github.com/CookieGMVN/BTEASEANBot/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/CookieGMVN/BTEASEANBot/graphs/contributors)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/CookieGMVN/BTEASEANBot)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
