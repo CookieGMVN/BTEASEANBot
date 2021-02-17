@@ -11,3 +11,4 @@ Linux: Updating
 
 [![GitHub issues](https://img.shields.io/github/issues/CookieGMVN/BTEASEANBot)](https://github.com/CookieGMVN/BTEASEANBot/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/CookieGMVN/BTEASEANBot)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+[![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
